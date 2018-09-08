@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1536254703 source:c:\users\dalina\desktop\projectad\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1536242687 c:\users\dalina\desktop\projectad\code\kruskal.h
+
+1536247900 c:\users\dalina\desktop\projectad\code\prim's.h
+
+1536247926 source:c:\users\dalina\desktop\projectad\code\prim's.c
+	<stdio.h>
+	<limits.h>
+	<stdbool.h>
+	"prim's.h"
+
+1536249937 source:c:\users\dalina\desktop\projectad\code\kruskal.c
+	<stdio.h>
+	"headers.h"
+
+1536249685 c:\users\dalina\desktop\projectad\code\headers.h
+
+1536249267 source:c:\users\dalina\desktop\projectad\code\prims.c
+	<stdio.h>
+	"headers.h"
+
+1536258572 source:c:\users\rares\onedrive\desktop\rusugeorgiana\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1536260112 c:\users\rares\onedrive\desktop\rusugeorgiana\code\headers.h
+
+1536252867 source:c:\users\rares\onedrive\desktop\rusugeorgiana\code\prims.c
+	<stdio.h>
+	"headers.h"
+
