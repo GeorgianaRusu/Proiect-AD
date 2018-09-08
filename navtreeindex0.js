@@ -1,0 +1,25 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[0,0],
+"classes.html":[0,1],
+"dir_2b6056e6af7969ddc62910d10a7fcb58.html":[1,0,0,0,0,0,0],
+"dir_a027af62a09a83435ae2944ce043930d.html":[1,0,0,0,0,0],
+"dir_bc883d31f09c58a06eb16148b708cf36.html":[1,0,0,0,0],
+"dir_d522931ffa1371640980b621734a4381.html":[1,0,0],
+"dir_da89048b9c145f7a4f4fd3ac2864362b.html":[1,0,0,0,0,0,0,0],
+"dir_e6dffd75319f9d29ba601bac733323c9.html":[1,0,0,0],
+"files.html":[1,0],
+"headers_8h_source.html":[1,0,0,0,0,0,0,0,0],
+"index.html":[],
+"kruskal_8c_source.html":[1,0,0,0,0,0,0,0,1],
+"main_8c_source.html":[1,0,0,0,0,0,0,0,2],
+"pages.html":[],
+"prims_8c_source.html":[1,0,0,0,0,0,0,0,3],
+"structedge.html":[0,0,0],
+"structedge.html#a5874b4c2ec2e28321eea4e4871d08222":[0,0,0,0],
+"structedge.html#aac374e320caaadeca4874add33b62af2":[0,0,0,2],
+"structedge.html#ac8859e8c1ce357c4c8b37bbb1936ba1c":[0,0,0,1],
+"structedgelist.html":[0,0,1],
+"structedgelist.html#a76f11d9a0a47b94f72c2d0e77fb32240":[0,0,1,1],
+"structedgelist.html#ac83418c6b54b36dbff61764f29125b80":[0,0,1,0]
+};
